@@ -20,7 +20,7 @@
 
 登录页面
 
-![image-20220520141413849](./images/202205201414968.png)
+![image-20220520141413849](images/202205201414968.png)
 
 验证POC
 
@@ -28,4 +28,4 @@
 /system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
 ```
 
-![image-20220520141519859](./images/202205201415920.png)
+![image-20220520141519859](images/202205201415920.png)

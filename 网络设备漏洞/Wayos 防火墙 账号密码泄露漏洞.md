@@ -22,8 +22,8 @@ body="Get_Verify_Info(hex_md5(user_string)."
 
 F12 查看账号密码
 
-![](./images/202202162239392.png)
+![](images/202202162239392.png)
 
 解密Md5即可登录后台
 
-![](./images/202202162239676.png)
+![](images/202202162239676.png)

@@ -20,7 +20,7 @@ app="Landray-OA系统"
 
 产品官网
 
-![image-20220520142409715](./images/202205201424775.png)
+![image-20220520142409715](images/202205201424775.png)
 
 漏洞在 `/sys/search/sys_search_main/sysSearchMain.do` method 为 editrParam。
 
@@ -48,4 +48,4 @@ var={"body":{"file":"/sys/search/sys_search_main/sysSearchMain.do?method=editPar
 </string></void></void></java>
 ```
 
-![image-20220520142426845](./images/202205201424940.png)
+![image-20220520142426845](images/202205201424940.png)

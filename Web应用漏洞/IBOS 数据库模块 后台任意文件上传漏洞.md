@@ -30,7 +30,7 @@ http://xxx.xxx.xxx.xxx/?r=dashboard/default/login
 
 
 
-![](./images/202202091853548.png)
+![](images/202202091853548.png)
 
 
 
@@ -38,7 +38,7 @@ http://xxx.xxx.xxx.xxx/?r=dashboard/default/login
 
 
 
-![](./images/202202091853668.png)
+![](images/202202091853668.png)
 
 
 
@@ -52,4 +52,4 @@ backuptype=all&custom_enabled=1&method=shell&sizelimit=2048&extendins=0&sqlcompa
 
 
 
-![](./images/202202091854875.png)
+![](images/202202091854875.png)

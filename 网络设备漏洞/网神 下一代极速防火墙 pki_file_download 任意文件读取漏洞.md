@@ -20,7 +20,7 @@ app="网神下一代极速防火墙"
 
 登录页面如下
 
-![](./images/202202162229226.png)
+![](images/202202162229226.png)
 
 发送请求包
 
@@ -41,7 +41,7 @@ Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-TW;q=0.6
 Cookie: __s_sessionid__=7rl7vvg1mlc00gf4pfmo74h0t7
 ```
 
-![](./images/202202162229183.png)
+![](images/202202162229183.png)
 
 
 

@@ -114,6 +114,6 @@ echo "<p class=\"paginate\">Page: $pages->current_page of $pages->num_pages</p>\
 /useradmin.inc.php
 ```
 
-![](./images/202202162242982.png)
+![](images/202202162242982.png)
 
 泄露用户信息

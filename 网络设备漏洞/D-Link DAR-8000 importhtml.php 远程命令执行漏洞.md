@@ -22,7 +22,7 @@ body="mask.style.visibility"
 
 
 
-![](./images/202202162227588.png)
+![](images/202202162227588.png)
 
 
 
@@ -126,4 +126,4 @@ https://xxx.xxx.xxx.xxx/importhtml.php?type=exporthtmlmail&tab=tb_RCtrlLog&sql=c
 
 访问成功后会触发下载日志文件，再访问 sys1.php
 
-![](./images/202202162227990.png)
+![](images/202202162227990.png)

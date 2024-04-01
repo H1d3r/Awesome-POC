@@ -20,7 +20,7 @@ H3C IMC
 
 登录页面
 
-![1](./images/202202091825625.png)
+![](images/202202091825625.png)
 
 
 
@@ -48,7 +48,7 @@ pfdrt=sc&ln=primefaces&pfdrid=uMKljPgnOTVxmOB%2BH6%2FQEPW9ghJMGL3PRdkfmbiiPkUDzO
 
 
 
-![2](./images/202202091825010.png)
+![](images/202202091825010.png)
 
 
 

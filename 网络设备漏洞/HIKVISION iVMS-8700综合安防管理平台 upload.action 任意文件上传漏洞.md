@@ -1,12 +1,12 @@
-# HIKVISION iVMS-8700综合安防管理平台 upload.action 任意文件上传漏洞
+# Hikvision iVMS-8700综合安防管理平台 upload.action 任意文件上传漏洞
 
 ## 漏洞描述
 
-HIKVISION iVMS-8700综合安防管理平台存在任意文件上传漏洞，攻击者通过发送特定的请求包可以上传Webshell文件控制服务器
+Hikvision iVMS-8700综合安防管理平台存在任意文件上传漏洞，攻击者通过发送特定的请求包可以上传Webshell文件控制服务器
 
 ## 漏洞影响
 
-HIKVISION iVMS-8700综合安防管理平台
+Hikvision iVMS-8700综合安防管理平台
 
 ## 网络测绘
 
@@ -18,7 +18,7 @@ icon_hash="-911494769"
 
 登录页面
 
-![image-20230704111156427](./images/image-20230704111156427.png)
+![image-20230704111156427](images/image-20230704111156427.png)
 
 发送请求包上传文件
 
@@ -46,10 +46,10 @@ Content-Type: image/jpeg
 
 上传路径
 
-![image-20230704111213114](./images/image-20230704111213114.png)
+![image-20230704111213114](images/image-20230704111213114.png)
 
 ```
 /eps/upload/769badc8ef5944da804a4ca3c8ecafb0.jsp
 ```
 
-![image-20230704111225074](./images/image-20230704111225074.png)
+![image-20230704111225074](images/image-20230704111225074.png)

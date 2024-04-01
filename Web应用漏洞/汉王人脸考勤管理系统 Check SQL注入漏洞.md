@@ -24,7 +24,7 @@ title=""汉王人脸考勤管理系统""
 
 
 
-![](./images/202202101908168.png)
+![](images/202202101908168.png)
 
 
 
@@ -62,7 +62,7 @@ sqlmap -r postwang.txt -p strName  --current-user
 
 
 
-![](./images/202202101908817.png)
+![](images/202202101908817.png)
 
 
 
@@ -77,6 +77,6 @@ pass: admin
 
 
 
-![](./images/202202101908955.png)
+![](images/202202101908955.png)
 
 ## 

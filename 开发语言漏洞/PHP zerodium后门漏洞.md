@@ -30,8 +30,8 @@ User-Agentt: zerodiumsystem('id');
 
 
 
-![](./images/202202091309632.png)
+![](images/202202091309632.png)
 
 反弹shell
 
-![](./images/202202091310034.png)
+![](images/202202091310034.png)

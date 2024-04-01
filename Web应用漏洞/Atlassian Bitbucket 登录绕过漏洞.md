@@ -20,7 +20,7 @@ title="Log in - Bitbucket"
 
 登录页面
 
-![](./images/202205241429046.png)
+![](images/202205241429046.png)
 
 验证POC
 
@@ -35,4 +35,4 @@ title="Log in - Bitbucket"
 /admin%20/avatars
 ```
 
-![](./images/202205241429345.png)
+![](images/202205241429345.png)

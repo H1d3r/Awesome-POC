@@ -16,13 +16,13 @@
 
 
 
-![](./images/202202091842964.png)
+![](images/202202091842964.png)
 
 
 
 安装页面如下
 
-![](./images/202202091843119.png)
+![](images/202202091843119.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![](./images/202202091844386.png)
+![](images/202202091844386.png)
 
 
 
@@ -38,7 +38,7 @@ Drop掉 **/huanzhen/have_installed?**
 
 
 
-![](./images/202202091844013.png)
+![](images/202202091844013.png)
 
 
 
@@ -46,11 +46,11 @@ Drop掉 **/huanzhen/have_installed?**
 
 
 
-![](./images/202202091844519.png)
+![](images/202202091844519.png)
 
 点击调试抓包
 
-![](./images/202202091844068.png)
+![](images/202202091844068.png)
 
 
 
@@ -58,7 +58,7 @@ Drop掉 **/huanzhen/have_installed?**
 
 
 
-![](./images/202202091844606.png)
+![](images/202202091844606.png)
 
 
 
@@ -66,4 +66,4 @@ Drop掉 **/huanzhen/have_installed?**
 
 
 
-![](./images/202202091844354.png)
+![](images/202202091844354.png)

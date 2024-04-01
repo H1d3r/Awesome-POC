@@ -8,6 +8,10 @@
 
 360CERT判断漏洞等级为中，危害面/影响面低。建议使用泛微e-cology OA的用户及时安装最新补丁，以免遭受黑客攻击。
 
+参考阅读：
+
+- https://mp.weixin.qq.com/s/zTEUan_BtDDzuHzmd9pxYg
+
 ## 漏洞影响
 
 ```
@@ -18,21 +22,15 @@
 
 根据源码可以得到DES密钥为 1z2x3c4v5b6n（也有1z2x3c4v的,可以按此规律来爆破）
 
-![image-20220209103714654](./images/202202091037951.png)
-
-
+![image-20220209103714654](images/202202091037951.png)
 
 可以看到会将当前连接数据库的用户名密码，url，logintype等信息进行des加密，并最终进行返回，可以直接通过des解密获取泄露信息。
-
-
 
 ## 漏洞POC
 
 [Github链接](https://github.com/ianxtianxt/ecologyExp.jar)
 
 python代码
-
-
 
 ```python
 import base64
@@ -64,11 +62,3 @@ def req(url):
 url = 'http://xxx.xxx.xxx.xxx:8888//mobile/DBconfigReader.jsp'
 print req(url)
 ```
-
-
-
-## 参考文章
-
-
-
-[[更新\]泛微e-cology OA数据库配置信息泄漏漏洞预警](https://mp.weixin.qq.com/s/zTEUan_BtDDzuHzmd9pxYg)

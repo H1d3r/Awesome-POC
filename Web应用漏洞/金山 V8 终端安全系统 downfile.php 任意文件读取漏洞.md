@@ -56,7 +56,7 @@ http://xxx.xxx.xxx.xxx/htmltopdf/downfile.php?filename=downfile.php
 
 
 
-![](./images/202202091833924.png)
+![](images/202202091833924.png)
 
 
 
@@ -105,5 +105,5 @@ if __name__ == '__main__':
 
 
 
-![](./images/202202091833854.png)
+![](images/202202091833854.png)
 

@@ -22,7 +22,7 @@ body="/him/api/rest/v1.0/node/role"
 
 
 
-![](./images/202202101900721.png)
+![](images/202202101900721.png)
 
 
 
@@ -48,7 +48,7 @@ fullPath=%2Fetc%2Fpasswd
 
 
 
-![](./images/202202101900651.png)
+![](images/202202101900651.png)
 
 
 

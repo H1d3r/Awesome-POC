@@ -20,8 +20,8 @@ XAMPP
 
 登录页面
 
-![img](./images/202202162238289.png)
+![img](images/202202162238289.png)
 
 访问页面 **/dashboard/phpinfo.php** 
 
-![img](./images/202202162238311.png)
+![img](images/202202162238311.png)

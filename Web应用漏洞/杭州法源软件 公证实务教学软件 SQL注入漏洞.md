@@ -18,7 +18,7 @@ FOFA暂时未收录任何网站
 
 登录页面如下
 
-![](./images/202202101856282.png)
+![](images/202202101856282.png)
 
 登录抓取请求包
 
@@ -51,4 +51,4 @@ __EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUKMTE5NTI5NDc1Ng8WAh4TVmFsaW
 
 
 
-![](./images/202202101856878.png)
+![](images/202202101856878.png)

@@ -24,6 +24,6 @@ POC为
 http://xxx.xxx.xxx.xxx/mailsms/s?func=ADMIN:appState&dumpConfig=/
 ```
 
-![](./images/202202101913188.png)
+![](images/202202101913188.png)
 
 

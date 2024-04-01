@@ -24,7 +24,7 @@ title="Canal Admin"
 /api/v1/canal/config/1/0
 ```
 
-![](./images/202202102002400.png)
+![](images/202202102002400.png)
 
 
 
@@ -38,4 +38,4 @@ title="Canal Admin"
 
 
 
-![](./images/202202102002074.png)
+![](images/202202102002074.png)

@@ -30,4 +30,4 @@ ezEIP 4.1.0
 WHIR_USERINFOR=whir_mem_member_pid=1;
 ```
 
-![](./images/202202162312106.png)
+![](images/202202162312106.png)

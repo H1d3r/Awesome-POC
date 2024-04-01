@@ -1,5 +1,9 @@
 # 通达OA 部分漏洞信息整合
 
+参考阅读：
+
+- [通达OA漏洞一些漏洞点(Github)](https://github.com/OA-HUNTER/TongDa-OA.git)
+
 ## 通达OA信息收集
 
 ```plain
@@ -66,6 +70,3 @@ http[s]://TongDaOA.domain/general/workflow/document_list/roll_config.inc.php
 http[s]://TongDaOA.domain/module/appbuilder/assets/print.php 任意文件删除
 ```
 
-## 参考文章
-
-[通达OA漏洞一些漏洞点(Github)](https://github.com/OA-HUNTER/TongDa-OA.git)

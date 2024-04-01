@@ -2,7 +2,10 @@
 
 ## 漏洞描述
 
-泛微OA weaver.common.Ctrl 存在任意文件上传漏洞，攻击者通过漏洞可以上传webshell文件控制服务器
+泛微OA weaver.common.Ctrl 存在任意文件上传漏洞，攻击者通过漏洞可以上传webshell文件控制服务器。
+参考阅读：
+
+- [原漏洞公开地址](https://github.com/GTX8090TI/GTX8090TI.github.io/blob/6dd04a19bbc4fcef436e0b2f05c15bc98ac0c852/2021/05/02/泛微OA-前台GetShell复现/index.html)
 
 ## 漏洞影响
 
@@ -26,11 +29,11 @@ app="泛微-协同办公OA"
 
 请求包为
 
-![image-20220209103936690](./images/202202091039784.png)
+![image-20220209103936690](images/202202091039784.png)
 
 使用POC文件上传
 
-![image-20220209103951582](./images/202202091039689.png)
+![image-20220209103951582](images/202202091039689.png)
 
 ## 漏洞POC
 
@@ -105,6 +108,3 @@ if __name__ == '__main__':
     main()
 ```
 
-## 参考文章
-
-[原漏洞公开地址](https://github.com/GTX8090TI/GTX8090TI.github.io/blob/6dd04a19bbc4fcef436e0b2f05c15bc98ac0c852/2021/05/02/泛微OA-前台GetShell复现/index.html)

@@ -20,7 +20,7 @@ title="CMA客诉管理系统手机端"
 
 登录页面
 
-![](./images/202205241430645.png)
+![](images/202205241430645.png)
 
 发送请求包上传文件
 
@@ -47,8 +47,8 @@ Content-Type: application/octet-stream
 ------WebKitFormBoundarymXf9pBIUlDVOYtnZ--
 ```
 
-![](./images/202205241430324.png)
+![](images/202205241430324.png)
 
 发送后回显路径，使用冰蝎连接
 
-![](./images/202205241430125.png)
+![](images/202205241430125.png)

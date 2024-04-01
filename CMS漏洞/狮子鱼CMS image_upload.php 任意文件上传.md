@@ -20,7 +20,7 @@
 
 登录页面如下
 
-![](./images/202202170928345.png)
+![](images/202202170928345.png)
 
 漏洞文件为 CK编辑器的 image_upload.php
 
@@ -101,7 +101,7 @@ Content-Type: http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/gif
 ------WebKitFormBoundary8UaANmWAgM4BqBSs—
 ```
 
-![](./images/202202170928692.png)
+![](images/202202170928692.png)
 
 
 
@@ -111,4 +111,4 @@ Content-Type: http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/gif
 /Common/http://peiqi-wiki-poc.oss-cn-beijing.aliyuncs.com/vuln/uploads/xxxxx.php
 ```
 
-![](./images/202202170928744.png)
+![](images/202202170928744.png)

@@ -106,7 +106,7 @@ Content-Length: 2
 
 再请求 [**http://xxx.xxx.xxx.xxx/test.txt**](http://xxx.xxx.xxx.xxx/test.txt) 验证漏洞
 
-![](./images/202202162244450.png)
+![](images/202202162244450.png)
 
 ## 漏洞POC
 
@@ -209,4 +209,4 @@ if __name__ == '__main__':
     POC_1(target_url)
 ```
 
-![](./images/202202162244891.png)
+![](images/202202162244891.png)

@@ -16,5 +16,5 @@
 GET /api/dbstat/gettablessize HTTP/1.1
 ```
 
-![image-20220209200552429](./images/202202092005904.png)
+![image-20220209200552429](images/202202092005904.png)
 

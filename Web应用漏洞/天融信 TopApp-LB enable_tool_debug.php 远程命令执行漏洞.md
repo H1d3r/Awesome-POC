@@ -22,7 +22,7 @@ app="天融信-TopApp-LB-负载均衡系统"
 
 
 
-![](./images/202202091923792.png)
+![](images/202202091923792.png)
 
 
 
@@ -86,4 +86,4 @@ function runTool($val,$tool,$par){
 
 
 
-![](./images/202202091941884.png)
+![](images/202202091941884.png)

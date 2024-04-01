@@ -20,7 +20,7 @@ app="泛微-EOffice"
 
 产品页面
 
-![img](./images/202202091048925.png)
+![img](images/202202091048925.png)
 
 验证POC
 
@@ -28,4 +28,4 @@ app="泛微-EOffice"
 /mysql_config.ini
 ```
 
-![img](./images/202202091048869.png)
+![img](images/202202091048869.png)

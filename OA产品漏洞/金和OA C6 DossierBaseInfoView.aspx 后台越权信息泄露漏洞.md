@@ -28,10 +28,7 @@ http://xxx.xxx.xxx.xxx/C6/JHSoft.Web.Dossier/DossierBaseInfoView.aspx?CollID=1&U
 
 - 注意 RY120330 需要为确定的其他的用户编号
 
-![1](./images/202202090135010.png)
+![](images/202202090135010.png)
 
 泄露了部分的敏感信息
 
-## 参考文章
-
-https://mp.weixin.qq.com/s/gwHQVIZeMWfT8a5lBX_4WA

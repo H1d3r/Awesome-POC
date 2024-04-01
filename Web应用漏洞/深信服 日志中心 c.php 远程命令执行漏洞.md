@@ -22,7 +22,7 @@ body="isHighPerformance : !!SFIsHighPerformance,"
 
 
 
-![](./images/202202091915868.png)
+![](images/202202091915868.png)
 
 
 
@@ -36,4 +36,4 @@ body="isHighPerformance : !!SFIsHighPerformance,"
 
 
 
-![](./images/202202091915736.png)
+![](images/202202091915736.png)

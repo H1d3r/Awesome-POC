@@ -22,7 +22,7 @@
 
 
 
-![](./images/202202101906343.png)
+![](images/202202101906343.png)
 
 
 
@@ -86,7 +86,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 
 
-![](./images/202202101907634.png)
+![](images/202202101907634.png)
 
 ## 漏洞POC
 
@@ -152,4 +152,4 @@ if __name__ == '__main__':
 
 
 
-![](./images/202202101907822.png)
+![](images/202202101907822.png)

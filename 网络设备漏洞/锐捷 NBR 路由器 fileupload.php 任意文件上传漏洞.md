@@ -16,7 +16,7 @@ app="Ruijie-NBR路由器"
 
 ## 漏洞复现
 
-![](./images/202202110923377.png)
+![](images/202202110923377.png)
 
 出现漏洞的文件在 /ddi/server/fileupload.php， 该文件为标准的文件上传文件
 

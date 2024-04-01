@@ -20,7 +20,7 @@ app="ShowDoc"
 
 网站首页如下
 
-![](./images/202202101919494.png)
+![](images/202202101919494.png)
 
 
 
@@ -46,7 +46,7 @@ Content-Type: text/plain
 
 
 
-![](./images/202202101919970.png)
+![](images/202202101919970.png)
 
 
 
@@ -54,7 +54,7 @@ Content-Type: text/plain
 
 
 
-![](./images/202202101919065.png)
+![](images/202202101919065.png)
 
 ## 漏洞POC
 

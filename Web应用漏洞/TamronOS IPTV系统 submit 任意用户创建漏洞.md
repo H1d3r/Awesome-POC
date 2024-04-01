@@ -22,11 +22,11 @@ app="TamronOS-IPTV系统"
 
 
 
-![](./images/202202101926166.png)
+![](images/202202101926166.png)
 
 
 
-漏洞POC为
+## 漏洞POC为
 
 
 
@@ -36,7 +36,7 @@ app="TamronOS-IPTV系统"
 
 
 
-![](./images/202202101926524.png)
+![](images/202202101926524.png)
 
 
 
@@ -47,4 +47,4 @@ pass: 123456
 
 
 
-![](./images/202202101926288.png)
+![](images/202202101926288.png)

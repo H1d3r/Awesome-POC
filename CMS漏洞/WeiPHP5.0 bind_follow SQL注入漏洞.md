@@ -20,7 +20,7 @@ app="WeiPHP"
 
 登陆页面
 
-![img](./images/202202162318466.png)
+![img](images/202202162318466.png)
 
 验证POC
 

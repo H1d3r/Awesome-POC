@@ -22,7 +22,7 @@ body="/netrep/"
 
 
 
-![](./images/202202101905343.png)
+![](images/202202101905343.png)
 
 
 
@@ -44,4 +44,4 @@ jpgfilepath=c:\windows\win.ini
 
 
 
-![](./images/202202101905484.png)
+![](images/202202101905484.png)

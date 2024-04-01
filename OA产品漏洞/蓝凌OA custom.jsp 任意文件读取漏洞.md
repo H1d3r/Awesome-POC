@@ -49,7 +49,7 @@ Accept-Encoding: gzip
 var={"body":{"file":"file:///etc/passwd"}}
 ```
 
-![1](./images/202202090128987.png)
+![](images/202202090128987.png)
 
 ## 漏洞POC
 
@@ -100,4 +100,4 @@ if __name__ == '__main__':
     POC_1(target_url)
 ```
 
-![2](./images/202202090129010.png)
+![](images/202202090129010.png)

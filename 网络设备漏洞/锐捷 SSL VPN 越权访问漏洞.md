@@ -4,6 +4,10 @@
 
 Ruijie SSL VPN 存在越权访问漏洞，攻击者在已知用户名的情况下，可以对账号进行修改密码和绑定手机的操作。并在未授权的情况下查看服务器资源
 
+参考阅读：
+
+- https://mp.weixin.qq.com/s?__biz=MzU1NTkzMTYxOQ==&mid=2247484601&idx=1&sn=d6d6f4496243d98e688667faff137973
+
 ## 漏洞影响
 
 ```
@@ -22,7 +26,7 @@ icon_hash="884334722" || title="Ruijie SSL VPN"
 
 
 
-![](./images/202202110919224.png)
+![](images/202202110919224.png)
 
 POC请求包如下
 
@@ -54,22 +58,19 @@ UserName 参数为已知用户名
 
 在未知登录用户名的情况下 漏洞无法利用(根据请求包使用Burp进行用户名爆破)
 
-![](./images/202202110920240.png)
+![](images/202202110920240.png)
 
 用户名正确时会返回敏感信息
 
-![](./images/202202110920291.png)
+![](images/202202110920291.png)
 
 通过此方法知道用户名后可以通过漏洞修改账号参数
 
 访问 http://xxx.xxx.xxx.xxx/cgi-bin/main.cgi?oper=showsvr&encode=GBK&username=liuw&sid=1&oper=showres
 
-![](./images/202202110920639.png)
+![](images/202202110920639.png)
 
 点击个人设置跳转页面即可修改账号信息
 
-![](./images/202202110920944.png)
+![](images/202202110920944.png)
 
-## 参考文章
-
-https://mp.weixin.qq.com/s?__biz=MzU1NTkzMTYxOQ==&mid=2247484601&idx=1&sn=d6d6f4496243d98e688667faff137973

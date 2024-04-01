@@ -108,7 +108,7 @@ require_once (dirname(__FILE__)."\\common\\HTTPrequest_SCpost.php");
 
 
 
-![](./images/202202091834810.png)
+![](images/202202091834810.png)
 
 
 
@@ -123,7 +123,7 @@ require_once (dirname(__FILE__)."\\common\\HTTPrequest_SCpost.php");
 
 
 ```plain
-![2](C:\Users\47236\Desktop\2.png)POST /inter/pdf_maker.php HTTP/1.1
+![](C:\Users\47236\Desktop\2.png)POST /inter/pdf_maker.php HTTP/1.1
 Host: xxx.xxx.xxx.xxx
 Content-Length: 45
 Pragma: no-cache
@@ -142,7 +142,7 @@ url=IiB8fCBpcGNvbmZpZyB8fA%3D%3D&fileName=xxx
 
 
 
-![](./images/202202091834882.png)
+![](images/202202091834882.png)
 
 
 
@@ -193,4 +193,4 @@ if __name__ == '__main__':
 
 
 
-![](./images/202202091834679.png)
+![](images/202202091834679.png)

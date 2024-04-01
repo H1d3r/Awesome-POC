@@ -22,8 +22,8 @@ body="Get_Verify_Info(hex_md5(user_string)."
 
 
 
-![](./images/202202162240644.png)
+![](images/202202162240644.png)
 
 登录后台后 ping 模块命令执行
 
-![](./images/202202162240143.png)
+![](images/202202162240143.png)

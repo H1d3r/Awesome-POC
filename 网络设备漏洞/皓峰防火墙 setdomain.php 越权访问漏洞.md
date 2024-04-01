@@ -20,7 +20,7 @@ app="皓峰防火墙系统登录"
 
 登录页面
 
-![img](./images/202202110917093.png)
+![img](images/202202110917093.png)
 
 验证POC
 
@@ -28,4 +28,4 @@ app="皓峰防火墙系统登录"
 /setdomain.php?action=list
 ```
 
-![img](./images/202202110916092.png)
+![img](images/202202110916092.png)
